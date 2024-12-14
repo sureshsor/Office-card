@@ -1,0 +1,118 @@
+/*body{
+    margin: 0px;
+    margin-bottom: 0px;
+}
+.red{
+    background:red;
+    height:100px;
+    
+}
+
+.blue{
+    background: blue;
+    height:100px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.green{
+    background: #008000;
+    height:100px;
+}
+    
+    .img{
+        display: block;
+        width: 100px;
+        margin-left:auto;
+        margin-right: auto;
+        
+    }
+        
+
+    .card{
+        display: block;
+        width: 200px;
+        margin-top:20px;
+        margin-left: auto;
+        margin-right: auto;
+        text color: yellow;
+        background-color: grey;
+        border: 5px solid orange;
+        border-radius: 10px;
+        padding: 10px;
+    }   
+       
+
+    .main{
+        margin-top: 100px;
+       
+    }
+
+    
+    .img{
+        display: block;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+
+    
+      
+    .box{
+        display: block;
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 32px;
+        border : 1px solid grey;
+        border-radius: 8px;
+    }
+     
+    .btn-wrapper {
+        display: flex;
+        justify-content: center;
+    }
+           
+    .btn{
+        
+        margin-top: 8px;
+        margin-left:5px;
+        margin-right: 5px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 8px;
+        padding-right: 8px;
+        border: none;
+        border-radius: 5px;
+    }
+        */
+
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.suresh {
+    width: 100px;
+
+}
+
+.Card{
+   width: 400px;
+   margin: 0 auto;
+   padding: 20px;
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+   color: black;
+   background-color: lightblue;
+   border-bottom: 4px solid purple;
+}
+    
+.border-blue{
+    border: 1px dotted blue;
+
+
+}
+    
